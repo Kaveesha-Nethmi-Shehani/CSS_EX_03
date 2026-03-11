@@ -12,6 +12,10 @@ header > nav > a {
 }
 
 footer{
+    background: gray;
+    text-align: center;
+    padding: 20px;
+    color: white;
 
 }
 
