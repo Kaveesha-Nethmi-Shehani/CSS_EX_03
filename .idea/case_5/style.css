@@ -7,3 +7,7 @@ section {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
 }
+
+section > div {
+    border: 1px solid black;
+}
