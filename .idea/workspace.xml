@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f18d391-df04-4f4c-92cc-6e4c6d7b2eca" name="Changes" comment="lode CSS_EX_03 Portfolio">
-      <change beforePath="$PROJECT_DIR$/.idea/case_2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/case_2/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/case_6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/case_6/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/case_5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/case_5/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +88,7 @@
       <workItem from="1772680407874" duration="7983000" />
       <workItem from="1773220429140" duration="523000" />
       <workItem from="1773240074100" duration="268000" />
-      <workItem from="1773240813153" duration="6423000" />
+      <workItem from="1773240813153" duration="7395000" />
     </task>
     <task id="LOCAL-00001" summary="update CSS_EX_03 Project">
       <option name="closed" value="true" />
