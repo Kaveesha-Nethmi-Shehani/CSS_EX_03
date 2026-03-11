@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f18d391-df04-4f4c-92cc-6e4c6d7b2eca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/case_3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/case_3/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/images.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/case_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/case_2/index.html" afterDir="false" />
+    <list default="true" id="7f18d391-df04-4f4c-92cc-6e4c6d7b2eca" name="Changes" comment="lode CSS_EX_03 Portfolio">
+      <change beforePath="$PROJECT_DIR$/.idea/case_2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/case_2/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,23 +44,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Portfolio-WebTec/CSS_EX_03/.idea/assets&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Portfolio-WebTec/CSS_EX_03/.idea/assets",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Portfolio-WebTec\CSS_EX_03\.idea\assets" />
@@ -88,11 +86,171 @@
       <workItem from="1772680407874" duration="7983000" />
       <workItem from="1773220429140" duration="523000" />
       <workItem from="1773240074100" duration="268000" />
-      <workItem from="1773240813153" duration="457000" />
+      <workItem from="1773240813153" duration="6423000" />
     </task>
+    <task id="LOCAL-00001" summary="update CSS_EX_03 Project">
+      <option name="closed" value="true" />
+      <created>1773242317707</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773242317707</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update CSS_EX_03 Project">
+      <option name="closed" value="true" />
+      <created>1773242648880</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773242648880</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update CSS_EX_03 Project">
+      <option name="closed" value="true" />
+      <created>1773242814109</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1773242814109</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update CSS_EX_03 Project">
+      <option name="closed" value="true" />
+      <created>1773243258688</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1773243258688</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lod CSS_EX_03 Portfolio">
+      <option name="closed" value="true" />
+      <created>1773247587746</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1773247587746</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lod CSS_EX_03 Portfolio">
+      <option name="closed" value="true" />
+      <created>1773247641839</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1773247641839</updated>
+    </task>
+    <task id="LOCAL-00007" summary="lod CSS_EX_03 Portfolio">
+      <option name="closed" value="true" />
+      <created>1773247736404</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1773247736404</updated>
+    </task>
+    <task id="LOCAL-00008" summary="lod CSS_EX_03 Portfolio">
+      <option name="closed" value="true" />
+      <created>1773247992263</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1773247992263</updated>
+    </task>
+    <task id="LOCAL-00009" summary="lode CSS_EX_03 Portfolio">
+      <option name="closed" value="true" />
+      <created>1773248453048</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1773248453048</updated>
+    </task>
+    <task id="LOCAL-00010" summary="lode CSS_EX_03 Portfolio">
+      <option name="closed" value="true" />
+      <created>1773248564365</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1773248564365</updated>
+    </task>
+    <task id="LOCAL-00011" summary="lode CSS_EX_03 Portfolio">
+      <option name="closed" value="true" />
+      <created>1773249124007</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1773249124007</updated>
+    </task>
+    <task id="LOCAL-00012" summary="lode CSS_EX_03 Portfolio">
+      <option name="closed" value="true" />
+      <created>1773249226686</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1773249226686</updated>
+    </task>
+    <task id="LOCAL-00013" summary="lode CSS_EX_03 Portfolio">
+      <option name="closed" value="true" />
+      <created>1773249370932</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1773249370932</updated>
+    </task>
+    <task id="LOCAL-00014" summary="lode CSS_EX_03 Portfolio">
+      <option name="closed" value="true" />
+      <created>1773249495063</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1773249495063</updated>
+    </task>
+    <task id="LOCAL-00015" summary="lode CSS_EX_03 Portfolio">
+      <option name="closed" value="true" />
+      <created>1773249919103</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1773249919103</updated>
+    </task>
+    <task id="LOCAL-00016" summary="lode CSS_EX_03 Portfolio">
+      <option name="closed" value="true" />
+      <created>1773250073501</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1773250073502</updated>
+    </task>
+    <task id="LOCAL-00017" summary="lode CSS_EX_03 Portfolio">
+      <option name="closed" value="true" />
+      <created>1773250145001</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1773250145001</updated>
+    </task>
+    <task id="LOCAL-00018" summary="lode CSS_EX_03 Portfolio">
+      <option name="closed" value="true" />
+      <created>1773250356212</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1773250356212</updated>
+    </task>
+    <task id="LOCAL-00019" summary="lode CSS_EX_03 Portfolio">
+      <option name="closed" value="true" />
+      <created>1773250397212</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1773250397212</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update project" />
+    <MESSAGE value="update CSS_EX_03 Project" />
+    <MESSAGE value="lod CSS_EX_03 Portfolio" />
+    <MESSAGE value="lode CSS_EX_03 Portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="lode CSS_EX_03 Portfolio" />
   </component>
 </project>
