@@ -1,0 +1,20 @@
+div{
+    width: 200px;
+    height: 70px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    background-color: darkviolet;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+    margin-left: -200px;
+    transition-duration: 1s;
+    padding: 0 30px;
+}
+
+div:hover{
+    margin-left: 1px;
+}
